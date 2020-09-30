@@ -6,4 +6,6 @@ Interface criada atráves de estudos sobre CSS Flex Box, os mesmos oferecidos po
 
 ## Nesse projeto foi usado:
 - HTML5
--CSS FlexBox
+- CSS FlexBox
+
+[Veja a demo aqui!](https://flexblogbylyz.netlify.app/)
